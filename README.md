@@ -1,4 +1,4 @@
-# Opus Backend
+# Django Custom Authentication Backend
 
 Opus is a job portal for employers and candidates.
 
