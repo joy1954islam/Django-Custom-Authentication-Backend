@@ -1,6 +1,6 @@
 # Django Custom Authentication Backend
 
-Opus is a job portal for employers and candidates.
+
 
 ## Build with
 * [Python v3.11](https://www.python.org/)
